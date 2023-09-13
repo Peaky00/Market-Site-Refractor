@@ -5,6 +5,8 @@
 
 # Refractory Job
 - Did most of the refracting please feel free to touch up if you see anything else.
+- Need to fix DIV into Sections
+- Need to organize CCS from using code bloat
 
 # Extentions Needed
 - Github markdown by Chris 
