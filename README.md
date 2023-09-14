@@ -14,10 +14,11 @@
 
 #  Changes
 - Removed all id's for classes. (Chris)
-- Created classes in <p> tags to .paragraphs (Chris)
+- Created classes in p tags to .paragraphs (Chris)
 - Added nav over div for navigation links (Chris)
 - Added footer over div for the bottom tags (Chris)
 - Organized CCS to correspond to index orientation (Chris)
+- Added a previous working.css file incase of breaking (Chris)
 
 # Live Link
 - https://peaky00.github.io/Market-Site-Refractor/
